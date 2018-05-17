@@ -6,15 +6,25 @@
     我是代码2
     我是代码2
 
-### 代码：反引号包裹```````
-
+### 代码：反引号`` ` ``包裹
 `System.out.println(1);`
+
+#### java type
+```java
+public static void main(String[]args){} 
+```
+#### javascript type
+```javascript
+document.getElementById("myH1").innerHTML="Welcome to my Homepage"; 
+```
 
 ### 分割线:可以在一行用3个以上的 `*`,`-`,`_` 来建立一条分割线
 
 ***
 ---
 ___
+### 删除线:文本两端加上两个~~即可
+~~删除线~~
 
 ### 强调：两端各用一个 `*` 或者 `_` 包起来是斜体，各用两个包起来是粗体
 

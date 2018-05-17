@@ -1,6 +1,6 @@
 # markdown cheat sheet
 
-### 代码区块:开头加4个空格或一个tab即可, **代码区块中 markdown 语法不会转换**
+### 代码区块:开头加4个空格或一个tab即可, 代码区块中 markdown 语法不会转换
 
     我是代码1String ss;我是代码2String ss;    
     我是代码2
@@ -12,9 +12,9 @@
 ### 代码高亮:开头和结尾用三个连续反引号`` ` ``
 格式：
 
-    ```language type
+    \```language type
     your code
-    ```
+    \```
 
 #### * java
 ```java

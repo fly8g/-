@@ -30,7 +30,7 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage";
 
 >块注释1:文字前面加1个`>`
 
->     块注释2:文字前面加5个`>`
+>     块注释2:文字前面加5个`>`
 
 ---
 
@@ -123,5 +123,3 @@ __两边各2个下划线是粗体__
 |    100000    |    sysdba    |    数据库表模型汇总    |    |
 
 
-
-Tags: 信息 数字

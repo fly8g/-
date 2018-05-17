@@ -12,11 +12,9 @@
 ### 代码高亮:开头和结尾用三个连续反引号`` ` ``
 格式：
 
-  \`\`\`language type
-  
-  your code
- 
-  \`\`\`
+    \`\`\`language type
+    your code
+    \`\`\`
 
 #### * java
 ```java

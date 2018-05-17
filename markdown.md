@@ -6,14 +6,23 @@
     我是代码2
     我是代码2
 
-### 代码：反引号`` ` ``包裹
+### 代码:反引号`` ` ``包裹
 `System.out.println(1);`
 
-#### java type
+### 代码高亮:开头和结尾用三个连续反引号`` ` ``
+格式：
+
+  \`\`\`language type
+  
+  your code
+ 
+  \`\`\`
+
+#### * java
 ```java
 public static void main(String[]args){} 
 ```
-#### javascript type
+#### * javascript
 ```javascript
 document.getElementById("myH1").innerHTML="Welcome to my Homepage"; 
 ```

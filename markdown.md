@@ -1,11 +1,13 @@
 # markdown cheat sheet
 
+代码区块:开头加4个空格或一个tab即可
+    我是代码1String ss;我是代码2String ss;    
 
-    我是代码1String ss;我是代码2String ss;    
+我是代码2
 
-    `我是代码2
+我是代码2
 
-
+    
 
 一级标题：文字下面加=
 =

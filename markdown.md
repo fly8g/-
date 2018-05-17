@@ -1,6 +1,6 @@
 # markdown cheat sheet
 
-### 代码区块:开头加4个空格或一个tab即可
+### 代码区块:开头加4个空格或一个tab即可, **代码区块中 markdown 语法不会转换**
 
     我是代码1String ss;我是代码2String ss;    
     我是代码2
@@ -12,9 +12,9 @@
 ### 代码高亮:开头和结尾用三个连续反引号`` ` ``
 格式：
 
-    \`\`\`language type
+    ```language type
     your code
-    \`\`\`
+    ```
 
 #### * java
 ```java
@@ -30,7 +30,7 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage";
 ***
 ---
 ___
-### 删除线:文本两端加上两个~~即可
+### 删除线:文本两端加上两个~~ 即可
 ~~删除线~~
 
 ### 强调：两端各用一个 `*` 或者 `_` 包起来是斜体，各用两个包起来是粗体

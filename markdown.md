@@ -40,6 +40,7 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage";
 ***
 ---
 ___
+* * *
 
 #### 删除线:文本两端加上两个~~ 即可
 ~~删除线~~

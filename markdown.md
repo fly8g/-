@@ -1,11 +1,10 @@
 # markdown cheat sheet
 
 
-    我是代码1String ss;    
-我是代码2String ss;    
+    我是代码1String ss;我是代码2String ss;    
 
-  `我是代码3
-  我是代码4`
+    `我是代码2
+
 
 
 一级标题：文字下面加=

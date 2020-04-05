@@ -21,3 +21,27 @@
    color:    #909;
 }
 ```
+
+>**2) html文本移除应该如何进行隐藏并显示省略号呢？
+
+单行文本溢出隐藏
+```css
+div {
+	/* 单行溢出隐藏 */
+	width: 150px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+```
+多行文本溢出隐藏
+```css
+div {
+	/* 多行溢出隐藏 */
+	width: 150px;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+	overflow: hidden;
+}
+```
